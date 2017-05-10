@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace Team2Library
-{
+{ 
     public class Books 
     {
 
@@ -15,7 +15,7 @@ namespace Team2Library
         public bool Checkout { get; set; }
 
         public string Location { get; set; }
-         public List<string> Author { get; set; }
+         public string Author { get; set; }
 
         public string Description { get; set; }
         

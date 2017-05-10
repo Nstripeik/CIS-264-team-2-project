@@ -7,7 +7,7 @@ using System.Data.Entity;
 
 namespace Team2Library
 {
-    class BooksContext : DbContext
+   public class BooksContext : DbContext
     {public BooksContext(string nameOrConnectionString): base(nameOrConnectionString)
         {
 
