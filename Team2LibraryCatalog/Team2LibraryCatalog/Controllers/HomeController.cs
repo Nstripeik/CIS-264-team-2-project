@@ -11,16 +11,16 @@ namespace Team2LibraryCatalog.Controllers
     {
         public ActionResult Index()
         {
-            BooksContext context = new BooksContext("RSVPContext");
+            BooksContext context = new BooksContext("BooksContext");
             {
-                //context.book.Add(new Books
-                //{
-                  //  ID = 1,
-                   // Name = "Pro ASP.NET MVC 5",
-                  //  Author = "Adam Freeman", 
-                  //  Description = "build the most maintainable standards-complaint, and best performing web applications on the microsoft platform",
-                  //  Location = "Adult library, programing section",
-                  //  Checkout = true
+               // context.book.Add(new Books
+               //{
+               //     ID = 1,
+               //     Name = "Pro ASP.NET MVC 5",
+               //     Author = "Adam Freeman",
+               //     Description = "build the most maintainable standards-complaint, and best performing web applications on the microsoft platform",
+               //     Location = "Adult library, programing section",
+               //     Checkout = true
                // });
                // context.SaveChanges();
             }
