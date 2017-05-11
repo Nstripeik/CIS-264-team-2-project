@@ -14,7 +14,7 @@ namespace Team2LibraryCatalog
     {
         protected void Application_Start()
         {
-            AppDomain.CurrentDomain.SetData("DataDirectory", Server.MapPath("~/bin"));
+            //AppDomain.CurrentDomain.SetData("DataDirectory", Server.MapPath("~/bin"));
 
             AreaRegistration.RegisterAllAreas();
             FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters);

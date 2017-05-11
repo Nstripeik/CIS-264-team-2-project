@@ -206,8 +206,8 @@
     <Compile Include="Startup.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="bin\BooksContext.mdf" />
-    <Content Include="bin\BooksContext_log.ldf">
+    <Content Include="App_Data\BooksContext.mdf" />
+    <Content Include="App_Data\BooksContext_log.ldf">
       <DependentUpon>BooksContext.mdf</DependentUpon>
     </Content>
     <Content Include="Content\bootstrap.css" />
@@ -273,7 +273,7 @@
     <Content Include="Views\Shared\_LoginPartial.cshtml" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="App_Data\" />
+    <Folder Include="bin\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
