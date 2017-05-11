@@ -47,7 +47,9 @@ C:\Users\student\Source\Repos\CIS-264-team-2-project\Team2LibraryCatalog\Team2Li
 C:\Users\student\Source\Repos\CIS-264-team-2-project\Team2LibraryCatalog\Team2LibraryCatalog\bin\System.Web.WebPages.Deployment.dll
 C:\Users\student\Source\Repos\CIS-264-team-2-project\Team2LibraryCatalog\Team2LibraryCatalog\bin\System.Web.WebPages.dll
 C:\Users\student\Source\Repos\CIS-264-team-2-project\Team2LibraryCatalog\Team2LibraryCatalog\bin\System.Web.WebPages.Razor.dll
+C:\Users\student\Source\Repos\CIS-264-team-2-project\Team2LibraryCatalog\Team2LibraryCatalog\bin\Team2Library.dll
 C:\Users\student\Source\Repos\CIS-264-team-2-project\Team2LibraryCatalog\Team2LibraryCatalog\bin\WebGrease.dll
+C:\Users\student\Source\Repos\CIS-264-team-2-project\Team2LibraryCatalog\Team2LibraryCatalog\bin\Team2Library.pdb
 C:\Users\student\Source\Repos\CIS-264-team-2-project\Team2LibraryCatalog\Team2LibraryCatalog\bin\Microsoft.AI.DependencyCollector.xml
 C:\Users\student\Source\Repos\CIS-264-team-2-project\Team2LibraryCatalog\Team2LibraryCatalog\bin\Microsoft.AI.ServerTelemetryChannel.xml
 C:\Users\student\Source\Repos\CIS-264-team-2-project\Team2LibraryCatalog\Team2LibraryCatalog\bin\Microsoft.AI.Web.xml
@@ -80,5 +82,3 @@ C:\Users\student\Source\Repos\CIS-264-team-2-project\Team2LibraryCatalog\Team2Li
 C:\Users\student\Source\Repos\CIS-264-team-2-project\Team2LibraryCatalog\Team2LibraryCatalog\obj\Debug\Team2LibraryCatalog.csprojResolveAssemblyReference.cache
 C:\Users\student\Source\Repos\CIS-264-team-2-project\Team2LibraryCatalog\Team2LibraryCatalog\obj\Debug\Team2LibraryCatalog.dll
 C:\Users\student\Source\Repos\CIS-264-team-2-project\Team2LibraryCatalog\Team2LibraryCatalog\obj\Debug\Team2LibraryCatalog.pdb
-C:\Users\student\Source\Repos\CIS-264-team-2-project\Team2LibraryCatalog\Team2LibraryCatalog\bin\Team2Library.dll
-C:\Users\student\Source\Repos\CIS-264-team-2-project\Team2LibraryCatalog\Team2LibraryCatalog\bin\Team2Library.pdb

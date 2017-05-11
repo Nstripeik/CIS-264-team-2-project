@@ -32,8 +32,8 @@ C:\Users\student\Source\Repos\CIS-264-team-2-project\Team2LibraryCatalog\Team2Li
 C:\Users\student\Source\Repos\CIS-264-team-2-project\Team2LibraryCatalog\Team2LibraryCatalog.Tests\bin\Debug\Owin.dll
 C:\Users\student\Source\Repos\CIS-264-team-2-project\Team2LibraryCatalog\Team2LibraryCatalog.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
 C:\Users\student\Source\Repos\CIS-264-team-2-project\Team2LibraryCatalog\Team2LibraryCatalog.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\student\Source\Repos\CIS-264-team-2-project\Team2LibraryCatalog\Team2LibraryCatalog.Tests\bin\Debug\Team2Library.dll
 C:\Users\student\Source\Repos\CIS-264-team-2-project\Team2LibraryCatalog\Team2LibraryCatalog.Tests\bin\Debug\EntityFramework.dll
-C:\Users\student\Source\Repos\CIS-264-team-2-project\Team2LibraryCatalog\Team2LibraryCatalog.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
 C:\Users\student\Source\Repos\CIS-264-team-2-project\Team2LibraryCatalog\Team2LibraryCatalog.Tests\bin\Debug\Team2LibraryCatalog.pdb
 C:\Users\student\Source\Repos\CIS-264-team-2-project\Team2LibraryCatalog\Team2LibraryCatalog.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
 C:\Users\student\Source\Repos\CIS-264-team-2-project\Team2LibraryCatalog\Team2LibraryCatalog.Tests\bin\Debug\Newtonsoft.Json.xml
@@ -50,8 +50,8 @@ C:\Users\student\Source\Repos\CIS-264-team-2-project\Team2LibraryCatalog\Team2Li
 C:\Users\student\Source\Repos\CIS-264-team-2-project\Team2LibraryCatalog\Team2LibraryCatalog.Tests\bin\Debug\Microsoft.Owin.Security.xml
 C:\Users\student\Source\Repos\CIS-264-team-2-project\Team2LibraryCatalog\Team2LibraryCatalog.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
 C:\Users\student\Source\Repos\CIS-264-team-2-project\Team2LibraryCatalog\Team2LibraryCatalog.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\student\Source\Repos\CIS-264-team-2-project\Team2LibraryCatalog\Team2LibraryCatalog.Tests\bin\Debug\Team2Library.pdb
 C:\Users\student\Source\Repos\CIS-264-team-2-project\Team2LibraryCatalog\Team2LibraryCatalog.Tests\bin\Debug\EntityFramework.xml
-C:\Users\student\Source\Repos\CIS-264-team-2-project\Team2LibraryCatalog\Team2LibraryCatalog.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
 C:\Users\student\Source\Repos\CIS-264-team-2-project\Team2LibraryCatalog\Team2LibraryCatalog.Tests\obj\Debug\Team2LibraryCatalog.Tests.csprojResolveAssemblyReference.cache
 C:\Users\student\Source\Repos\CIS-264-team-2-project\Team2LibraryCatalog\Team2LibraryCatalog.Tests\obj\Debug\Team2LibraryCatalog.Tests.dll
 C:\Users\student\Source\Repos\CIS-264-team-2-project\Team2LibraryCatalog\Team2LibraryCatalog.Tests\obj\Debug\Team2LibraryCatalog.Tests.pdb
