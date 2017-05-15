@@ -12,17 +12,17 @@ namespace Team2LibraryCatalog.Controllers
         public ActionResult Index()
         {
             BooksContext context = new BooksContext("BooksContext");
-            {
+            { 
                 context.book.Add(new Books
                 {
-                   ID = 0761165827,
-                    Name = "Bacon Nation",
-                    Author = "Peter Kaminsky & Marie Rama",
-                    Description = "125 Irrsistible Recipes",
-                    Location = "Adult library, Cooking",
-                    Checkout = true
+                   //ID = 0761165827,
+                   // Name = "Bacon Nation",
+                   // Author = "Peter Kaminsky & Marie Rama",
+                   // Description = "125 Irrsistible Recipes",
+                   // Location = "Adult library, Cooking",
+                   // Checkout = true
                 });
-                context.SaveChanges();
+                //context.SaveChanges();
             }
             return View();
         }
