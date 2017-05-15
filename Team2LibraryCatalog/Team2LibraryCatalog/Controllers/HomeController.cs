@@ -13,16 +13,16 @@ namespace Team2LibraryCatalog.Controllers
         {
             BooksContext context = new BooksContext("BooksContext");
             {
-                //context.book.Add(new Books
-                //{
-                //    ID = 1,
-                //    Name = "Pro ASP.NET MVC 5",
-                //    Author = "Adam Freeman",
-                //    Description = "build the most maintainable standards-complaint, and best performing web applications on the microsoft platform",
-                //    Location = "Adult library, programing section",
-                //    Checkout = true
-                //});
-                //context.SaveChanges();
+                context.book.Add(new Books
+                {
+                   ID = 0761165827,
+                    Name = "Bacon Nation",
+                    Author = "Peter Kaminsky & Marie Rama",
+                    Description = "125 Irrsistible Recipes",
+                    Location = "Adult library, Cooking",
+                    Checkout = true
+                });
+                context.SaveChanges();
             }
             return View();
         }
