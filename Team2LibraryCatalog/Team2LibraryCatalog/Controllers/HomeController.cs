@@ -27,18 +27,18 @@ namespace Team2LibraryCatalog.Controllers
             return View();
         }
 
-        public ActionResult About()
+       [HttpPost]
+        public ActionResult Searching(string titles)
         {
-            ViewBag.Message = "Your application description page.";
+            using (BooksContext b = new BooksContext("BooksContext"))
+            {
+                var title = from t in b.book
+                            where t.Name.Contains(titles)
+                            select t;
 
-            return View();
+                return View(title);
+
         }
-
-        public ActionResult Contact()
-        {
-            ViewBag.Message = "Your contact page.";
-
-            return View();
         }
     }
 }
