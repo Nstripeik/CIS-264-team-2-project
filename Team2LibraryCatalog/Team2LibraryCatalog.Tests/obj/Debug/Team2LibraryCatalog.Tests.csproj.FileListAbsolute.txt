@@ -1,0 +1,1 @@
+C:\Users\Student\Source\Repos\CIS-264-team-2-project\Team2LibraryCatalog\Team2LibraryCatalog.Tests\obj\Debug\Team2LibraryCatalog.Tests.csprojResolveAssemblyReference.cache

@@ -27,16 +27,25 @@ namespace Team2LibraryCatalog.Controllers
             return View();
         }
 
+
+
        [HttpPost]
         public ActionResult Index(string titles)
         {
             using (BooksContext b = new BooksContext("BooksContext"))
             {
-                var title = from t in b.book
-                            where t.Name.Contains(titles)
-                            select t;
+                var title = (from t in b.book
+                             where t.Name.Contains(titles)
+                             select t).ToList();
 
-                return View(title);
+
+                if (!title.Any())
+                {
+                    ViewBag.ErrorMessage = "Book not found in database";
+                    return View();
+                }
+                else
+                    return View("BookFound", title);
 
         }
         }
