@@ -28,7 +28,7 @@ namespace Team2LibraryCatalog.Controllers
         }
 
        [HttpPost]
-        public ActionResult Searching(string titles)
+        public ActionResult Index(string titles)
         {
             using (BooksContext b = new BooksContext("BooksContext"))
             {
