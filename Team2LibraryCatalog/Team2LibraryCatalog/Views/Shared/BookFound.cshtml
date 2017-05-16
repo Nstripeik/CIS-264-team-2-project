@@ -1,17 +1,40 @@
 ﻿@model System.Collections.Generic.IEnumerable<Team2Library.Books>
+@using System.Web.UI.HtmlControls
 
 @{
     ViewBag.Title = "BookFound";
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
-<h2>Search successful book found</h2>
+<h3>Search successful book found</h3>
 
+@using (Html.BeginForm())
+{
+
+    foreach (var title in Model)
+    {
+        
+           <p>Book Title: <strong>@Html.DisplayFor(modelName => title.Name)</strong></p>
+        
+        
+            <p>Checked out: @Html.DisplayFor(modelName => title.Checkout)</p>
+        
+       
+            <p>Loocation: @Html.DisplayFor(modelName => title.Location)</p>
+       
+        
+            <p>Author(s)@Html.DisplayFor(modelName => title.Author)</p>
+        
+        
+            <p>Description: @Html.DisplayFor(modelName => title.Description)</p>
+        <br />
+    }
+
+}
+<div>
+@Html.ActionLink("Back to Search", "Index")
+    </div>
 
    
     
-        <table>
-            <thead>We Got Here</thead>
-        </table>
-
-            
+       
